@@ -16,6 +16,7 @@ export default {
   data() {
     return {
       search_val: "",
+      keyval:""
     };
   },
   methods: {
